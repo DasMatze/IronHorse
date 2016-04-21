@@ -1,0 +1,780 @@
+﻿{
+	"DM_IH Locomotive": {
+		"displayName": "Locomotive",
+		"category": "Iron Horse",
+		"model": "Locomotive",
+		"type": "deco",
+		"price": 1000.0,
+		"gridSubdivision": 7.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#a00000",
+			"color2": "#007300",
+			"color3": "#8f7d17",
+			"color4": "#aaaaaa",
+		}
+	},
+	"DM_IH Tender": {
+		"displayName": "Tender",
+		"category": "Iron Horse",
+		"model": "Tender",
+		"type": "deco",
+		"price": 500.0,
+		"gridSubdivision": 7.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#a00000",
+			"color2": "#007300",
+			"color3": "#8f7d17",
+			"color4": "#aaaaaa",
+		}
+	},
+	"DM_IH Theme Park Car": {
+		"displayName": "Theme Park Car",
+		"category": "Iron Horse",
+		"model": "ThemeParkCar",
+		"type": "deco",
+		"price": 800.0,
+		"gridSubdivision": 7.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#a00000",
+			"color2": "#007300",
+			"color3": "#8f7d17",
+		}
+	},
+	"DM_IH Tanker": {
+		"displayName": "Tanker",
+		"category": "Iron Horse",
+		"model": "Tanker",
+		"type": "deco",
+		"price": 800.0,
+		"gridSubdivision": 7.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6e4e1e",
+			"color2": "#845e26",
+			"color3": "#583d14",
+			"color4": "#5f4319",
+		}
+	},
+	"DM_IH Log Car": {
+		"displayName": "Log Car",
+		"category": "Iron Horse",
+		"model": "LogCar",
+		"type": "deco",
+		"price": 800.0,
+		"gridSubdivision": 7.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#484848",
+			"color2": "#5d4343",
+			"color3": "#663f14",
+			"color4": "#b38949",
+		}
+	},
+	"DM_IH Box Car": {
+		"displayName": "Box Car",
+		"category": "Iron Horse",
+		"model": "BoxCar",
+		"type": "deco",
+		"price": 800.0,
+		"gridSubdivision": 7.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#d4ab25",
+			"color2": "#373737",
+			"color3": "#393939",
+			"color4": "#3c3c3c",
+		}
+	},
+	"DM_IH Coach": {
+		"displayName": "Coach",
+		"category": "Iron Horse",
+		"model": "Coach",
+		"type": "deco",
+		"price": 800.0,
+		"gridSubdivision": 7.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#084ecd",
+			"color2": "#292929",
+			"color3": "#4b4b4b",
+			"color4": "#b5b5b5",
+		}
+	},
+	"DM_IH Caboose": {
+		"displayName": "Caboose",
+		"category": "Iron Horse",
+		"model": "Caboose",
+		"type": "deco",
+		"price": 600.0,
+		"gridSubdivision": 7.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#c32020",
+			"color2": "#2c2c2c",
+			"color3": "#292929",
+		}
+	},
+	"DM_IH Hopper": {
+		"displayName": "Hopper",
+		"category": "Iron Horse",
+		"model": "Hopper",
+		"type": "deco",
+		"price": 800.0,
+		"gridSubdivision": 7.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#676767",
+			"color2": "#3b3b3b",
+			"color3": "#3a3a3a",
+			"color4": "#000000",
+		}
+	},
+	"DM_IH Track Straight": {
+		"displayName": "Track Straight",
+		"category": "Iron Horse",
+		"model": "TrackStraight",
+		"type": "deco",
+		"price": 50.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#696969",
+			"color2": "#564123",
+		}
+	},
+	"DM_IH Track Curve Left 45": {
+		"displayName": "Track Curve Left 45",
+		"category": "Iron Horse",
+		"model": "TrackCurveLeft45",
+		"type": "deco",
+		"price": 250.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#696969",
+			"color2": "#564123",
+		}
+	},
+	"DM_IH Track Curve Right 45": {
+		"displayName": "Track Curve Right 45",
+		"category": "Iron Horse",
+		"model": "TrackCurveRight45",
+		"type": "deco",
+		"price": 250.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#696969",
+			"color2": "#564123",
+		}
+	},
+	"DM_IH Track S-Curve Left": {
+		"displayName": "Track S-Curve Left",
+		"category": "Iron Horse",
+		"model": "TrackSCurveLeft",
+		"type": "deco",
+		"price": 200.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#696969",
+			"color2": "#564123",
+		}
+	},
+	"DM_IH Track S-Curve Right": {
+		"displayName": "Track S-Curve Right",
+		"category": "Iron Horse",
+		"model": "TrackSCurveRight",
+		"type": "deco",
+		"price": 200.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#696969",
+			"color2": "#564123",
+		}
+	},
+	"DM_IH Track S-Curve Left 2": {
+		"displayName": "Track S-Curve Left 2",
+		"category": "Iron Horse",
+		"model": "TrackSCurveLeft2",
+		"type": "deco",
+		"price": 250.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#696969",
+			"color2": "#564123",
+		}
+	},
+	"DM_IH Track S-Curve Right 2": {
+		"displayName": "Track S-Curve Right 2",
+		"category": "Iron Horse",
+		"model": "TrackSCurveRight2",
+		"type": "deco",
+		"price": 250.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#696969",
+			"color2": "#564123",
+		}
+	},
+	"DM_IH Track Straight 45": {
+		"displayName": "Track Straight 45",
+		"category": "Iron Horse",
+		"model": "TrackStraight45",
+		"type": "deco",
+		"price": 50.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#696969",
+			"color2": "#564123",
+		}
+	},
+	"DM_IH Rail Buffer": {
+		"displayName": "Rail Buffer",
+		"category": "Iron Horse",
+		"model": "RailBuffer",
+		"type": "deco",
+		"price": 50.0,
+		"gridSubdivision": 7.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#801212",
+		}
+	},
+	"DM_IH Rail Buffer 45": {
+		"displayName": "Rail Buffer 45",
+		"category": "Iron Horse",
+		"model": "RailBuffer45",
+		"type": "deco",
+		"price": 50.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#801212",
+		}
+	},
+	"DM_IH Water Tower": {
+		"displayName": "Water Tower",
+		"category": "Iron Horse",
+		"model": "WaterTower",
+		"type": "deco",
+		"price": 400.0,
+		"gridSubdivision": 7.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#88816f",
+			"color2": "#422910",
+			"color3": "#422910",
+			"color4": "#1c1c1c",
+		}
+	},
+	"DM_IH Water Tower 2": {
+		"displayName": "Water Tower 2",
+		"category": "Iron Horse",
+		"model": "WaterTower2",
+		"type": "deco",
+		"price": 400.0,
+		"gridSubdivision": 7.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#88816f",
+			"color2": "#422910",
+			"color3": "#422910",
+			"color4": "#1c1c1c",
+		}
+	},
+	"DM_IH Bridge Track Support": {
+		"displayName": "Bridge Track Support",
+		"category": "Iron Horse",
+		"model": "BridgeTrackSupport",
+		"type": "deco",
+		"price": 10.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#473418",
+		}
+	},
+	"DM_IH Bridge Support 1": {
+		"displayName": "Bridge Support 1",
+		"category": "Iron Horse",
+		"model": "BridgeSupport1",
+		"type": "deco",
+		"price": 20.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#422910",
+			"color2": "#564123",
+			"color3": "#473418",
+		}
+	},
+	"DM_IH Bridge Support 2": {
+		"displayName": "Bridge Support 2",
+		"category": "Iron Horse",
+		"model": "BridgeSupport2",
+		"type": "deco",
+		"price": 40.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#422910",
+			"color2": "#564123",
+			"color3": "#473418",
+		}
+	},
+	"DM_IH Bridge Support 3": {
+		"displayName": "Bridge Support 3",
+		"category": "Iron Horse",
+		"model": "BridgeSupport3",
+		"type": "deco",
+		"price": 60.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#422910",
+			"color2": "#564123",
+			"color3": "#473418",
+		}
+	},
+	"DM_IH Bridge Support 4": {
+		"displayName": "Bridge Support 4",
+		"category": "Iron Horse",
+		"model": "BridgeSupport4",
+		"type": "deco",
+		"price": 80.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#422910",
+			"color2": "#564123",
+			"color3": "#473418",
+		}
+	},
+	"DM_IH Bridge Support 5": {
+		"displayName": "Bridge Support 5",
+		"category": "Iron Horse",
+		"model": "BridgeSupport5",
+		"type": "deco",
+		"price": 100.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#422910",
+			"color2": "#564123",
+			"color3": "#473418",
+		}
+	},
+	"DM_IH Bridge Support 6": {
+		"displayName": "Bridge Support 6",
+		"category": "Iron Horse",
+		"model": "BridgeSupport6",
+		"type": "deco",
+		"price": 120.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#422910",
+			"color2": "#564123",
+			"color3": "#473418",
+		}
+	},
+	"DM_IH Bridge Support 7": {
+		"displayName": "Bridge Support 7",
+		"category": "Iron Horse",
+		"model": "BridgeSupport7",
+		"type": "deco",
+		"price": 140.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#422910",
+			"color2": "#564123",
+			"color3": "#473418",
+		}
+	},
+	"DM_IH Bridge Support 8": {
+		"displayName": "Bridge Support 8",
+		"category": "Iron Horse",
+		"model": "BridgeSupport8",
+		"type": "deco",
+		"price": 160.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#422910",
+			"color2": "#564123",
+			"color3": "#473418",
+		}
+	},
+	"DM_IH Bridge Support 9": {
+		"displayName": "Bridge Support 9",
+		"category": "Iron Horse",
+		"model": "BridgeSupport9",
+		"type": "deco",
+		"price": 180.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#422910",
+			"color2": "#564123",
+			"color3": "#473418",
+		}
+	},
+	"DM_IH Bridge Support 10": {
+		"displayName": "Bridge Support 10",
+		"category": "Iron Horse",
+		"model": "BridgeSupport10",
+		"type": "deco",
+		"price": 200.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#422910",
+			"color2": "#564123",
+			"color3": "#473418",
+		}
+	},
+	"DM_IH Trackbed Straight 1": {
+		"displayName": "Trackbed Straight 1",
+		"category": "Iron Horse",
+		"model": "TrackbedStraight1",
+		"type": "deco",
+		"price": 50.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6f6f6f",
+		}
+	},
+	"DM_IH Trackbed Straight 2": {
+		"displayName": "Trackbed Straight 2",
+		"category": "Iron Horse",
+		"model": "TrackbedStraight2",
+		"type": "deco",
+		"price": 100.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6f6f6f",
+		}
+	},
+	"DM_IH Trackbed Straight 3": {
+		"displayName": "Trackbed Straight 3",
+		"category": "Iron Horse",
+		"model": "TrackbedStraight3",
+		"type": "deco",
+		"price": 200.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6f6f6f",
+		}
+	},
+	"DM_IH Trackbed Curve Left 45": {
+		"displayName": "Trackbed Curve Left 45",
+		"category": "Iron Horse",
+		"model": "TrackbedCurveLeft45",
+		"type": "deco",
+		"price": 250.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6f6f6f",
+		}
+	},
+	"DM_IH Trackbed Curve Right 45": {
+		"displayName": "Trackbed Curve Right 45",
+		"category": "Iron Horse",
+		"model": "TrackbedCurveRight45",
+		"type": "deco",
+		"price": 250.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6f6f6f",
+		}
+	},
+	"DM_IH Trackbed S-Curve Left": {
+		"displayName": "Trackbed S-Curve Left",
+		"category": "Iron Horse",
+		"model": "TrackbedSCurveLeft",
+		"type": "deco",
+		"price": 200.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6f6f6f",
+		}
+	},
+	"DM_IH Trackbed S-Curve Right": {
+		"displayName": "Trackbed S-Curve Right",
+		"category": "Iron Horse",
+		"model": "TrackbedSCurveRight",
+		"type": "deco",
+		"price": 200.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6f6f6f",
+		}
+	},
+	"DM_IH Trackbed S-Curve Left 2": {
+		"displayName": "Trackbed S-Curve Left 2",
+		"category": "Iron Horse",
+		"model": "TrackbedSCurveLeft2",
+		"type": "deco",
+		"price": 250.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6f6f6f",
+		}
+	},
+	"DM_IH Trackbed S-Curve Right 2": {
+		"displayName": "Trackbed S-Curve Right 2",
+		"category": "Iron Horse",
+		"model": "TrackbedSCurveRight2",
+		"type": "deco",
+		"price": 250.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6f6f6f",
+		}
+	},
+	"DM_IH Trackbed Straight 45 1": {
+		"displayName": "Trackbed Straight 45 1",
+		"category": "Iron Horse",
+		"model": "TrackbedStraight451",
+		"type": "deco",
+		"price": 50.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6f6f6f",
+		}
+	},
+	"DM_IH Trackbed Straight 45 2": {
+		"displayName": "Trackbed Straight 45 2",
+		"category": "Iron Horse",
+		"model": "TrackbedStraight452",
+		"type": "deco",
+		"price": 100.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6f6f6f",
+		}
+	},
+	"DM_IH Trackbed Straight 45 3": {
+		"displayName": "Trackbed Straight 45 3",
+		"category": "Iron Horse",
+		"model": "TrackbedStraight453",
+		"type": "deco",
+		"price": 200.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6f6f6f",
+		}
+	},
+	"DM_IH Trackbed Straight End": {
+		"displayName": "Trackbed Straight End",
+		"category": "Iron Horse",
+		"model": "TrackbedStraightEnd",
+		"type": "deco",
+		"price": 60.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6f6f6f",
+		}
+	},
+	"DM_IH Trackbed Straight 45 End": {
+		"displayName": "Trackbed Straight 45 End",
+		"category": "Iron Horse",
+		"model": "TrackbedStraight45End",
+		"type": "deco",
+		"price": 60.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6f6f6f",
+		}
+	},
+	"DM_IH Tunnel Entrance Single": {
+		"displayName": "Tunnel Entrance Single",
+		"category": "Iron Horse",
+		"model": "TunnelEntranceSingle",
+		"type": "deco",
+		"price": 250.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#4c4c4c",
+			"color2": "#6c6c6c",
+		}
+	},
+	"DM_IH Tunnel Entrance Single 45": {
+		"displayName": "Tunnel Entrance Single 45",
+		"category": "Iron Horse",
+		"model": "TunnelEntranceSingle45",
+		"type": "deco",
+		"price": 250.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#4c4c4c",
+			"color2": "#6c6c6c",
+		}
+	},
+	"DM_IH Tunnel Entrance Double": {
+		"displayName": "Tunnel Entrance Double",
+		"category": "Iron Horse",
+		"model": "TunnelEntranceDouble",
+		"type": "deco",
+		"price": 450.0,
+		"gridSubdivision": 3.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#4c4c4c",
+			"color2": "#6c6c6c",
+		}
+	},
+	"DM_IH Switch Lever": {
+		"displayName": "Switch Lever",
+		"category": "Iron Horse",
+		"model": "SwitchLever",
+		"type": "deco",
+		"price": 20.0,
+		"gridSubdivision": 7.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#464646",
+			"color2": "#695252",
+		}
+	},
+	"DM_IH Switch Lever 45": {
+		"displayName": "Switch Lever 45",
+		"category": "Iron Horse",
+		"model": "SwitchLever45",
+		"type": "deco",
+		"price": 20.0,
+		"gridSubdivision": 7.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#464646",
+			"color2": "#695252",
+		}
+	},
+}

@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 3181127276
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a98411818ec8341b4dc4769e3144f7a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e6d74f2d6b370c4d26f3cae461538e43
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/ThemeParkCar.fbx
+- Assets/BridgeSupport3.fbx
+- Assets/TrackbedCurveRight45.fbx
+- Assets/BridgeTrackSupport.fbx
+- Assets/Coach.fbx
+- Assets/BridgeSupport8.fbx
+- Assets/TrackStraight45.fbx
+- Assets/BridgeSupport7.fbx
+- Assets/TrackbedStraight451.fbx
+- Assets/TrackSCurveRight.fbx
+- Assets/RailBuffer45.fbx
+- Assets/BridgeSupport10.fbx
+- Assets/TunnelEntranceDouble.fbx
+- Assets/TrackbedStraight452.fbx
+- Assets/SwitchLever45.fbx
+- Assets/TrackbedSCurveRight2.fbx
+- Assets/TrackbedStraight3.fbx
+- Assets/TrackSCurveLeft2.fbx
+- Assets/Hopper.fbx
+- Assets/TrackbedStraight453.fbx
+- Assets/TrackSCurveLeft.fbx
+- Assets/BridgeSupport4.fbx
+- Assets/TrackStraight.fbx
+- Assets/WaterTower.fbx
+- Assets/BridgeSupport9.fbx
+- Assets/TunnelEntranceSingle45.fbx
+- Assets/TrackbedStraight2.fbx
+- Assets/SwitchLever.fbx
+- Assets/TrackCurveLeft45.fbx
+- Assets/TrackbedStraight1.fbx
+- Assets/LogCar.fbx
+- Assets/TrackbedStraight45End.fbx
+- Assets/BridgeSupport2.fbx
+- Assets/TrackSCurveRight2.fbx
+- Assets/TrackbedCurveLeft45.fbx
+- Assets/Caboose.fbx
+- Assets/TrackbedSCurveLeft.fbx
+- Assets/BridgeSupport5.fbx
+- Assets/RailBuffer.fbx
+- Assets/TrackCurveRight45.fbx
+- Assets/Tanker.fbx
+- Assets/TrackbedSCurveRight.fbx
+- Assets/TunnelEntranceSingle.fbx
+- Assets/BridgeSupport1.fbx
+- Assets/Tender.fbx
+- Assets/BoxCar.fbx
+- Assets/BridgeSupport6.fbx
+- Assets/TrackbedSCurveLeft2.fbx
+- Assets/Locomotive.fbx
+- Assets/TrackbedStraightEnd.fbx
+- Assets/WaterTower2.fbx
+Dependencies: []

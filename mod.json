@@ -1,0 +1,7 @@
+{
+    "BaseDir": "",
+    "IsDevelopment": false,
+    "Name": "Iron Horse",
+    "Project": "Custom Scenery.csproj",
+	"AssetBundleDir": "assetbundle"
+}
